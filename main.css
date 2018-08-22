@@ -1,0 +1,10 @@
+body {
+  text-align: center;
+  background-color: tomato;
+  font-family: 'Faster One', cursive;
+  font-size: 5em;
+  color: limegreen;
+}
+image {
+  opacity: 40%;
+}
